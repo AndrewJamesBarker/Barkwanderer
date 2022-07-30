@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Barkwanderer
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning html, css & javascript
-- 💞️ I also have intend on learning backend languages... Ruby/Rails/Python
+- 💞️ I'm also tinkering with React, Rails, & Python
 - 
 
 <!---
